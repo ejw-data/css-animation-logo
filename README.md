@@ -1,2 +1,2 @@
-# css-animation-logo
-Example of how pure css can be used to make an animated graphics
+# svg-animation-logo
+Example of how an svg graphic can be used to make an animated graphic
