@@ -4,8 +4,8 @@ Author:  Erin James Wills - ejw.data@gmail.com
 
 <figure>
 
-![Logo Image]()
-<figcaption></figcaption>
+![Logo Image](./images/svg-logo.png)
+<figcaption>Example animated graphic written with SVG</figcaption>
 </figure>  
 
 <br>   
@@ -19,7 +19,7 @@ I wanted to keep this because it was a nice example of how SVG graphics could be
 
 ## Github Pages  
 
-https://ejw-data.github.io/
+https://ejw-data.github.io/svg-animation-logo
 
 <br>
 
@@ -38,7 +38,7 @@ Not applicable.  Example online was one circle rotating and I modified it.
 1. Clone the repo to your local machine
 1. Open repo folder in an IDE like VSCode
 1. Using a virtual server like the VSCode extention LiveServer
-1. Run `logo.html`  
+1. Run `index.html`  
 
 <br>
 
